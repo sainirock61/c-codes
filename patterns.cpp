@@ -223,7 +223,9 @@ cout<<"                _________________________________________________________
 }
 
 
+ackCBS 2.0, a legacy being carried forward by students of SSCBS aims to collaborate the intellects of programmers, designers, application developers, tech-geeks and newbies in the world of programming for the intensive development of a hack. At hackCBS 2.0, we want to help you turn your ideas into reality. These ideas can generally be in the form of websites, applications, projects or posters. You’ll have all the freedom to create a product, learn new techniques for your future, or just have fun working on a project with friends. Moreover, we’ll offer you a chance to network with other creators & professionals. You will never learn faster than you will at a hackathon.From basic app building to making your own IoT device,
 
+hackCBS 2.0 will have it all. If you haven’t participated in any hackathon before and if you’re looking out for the opportunity to do so, you’re in the right place. We welcome all newcomers and veterans alike. You are about to witness a series of events which will enlighten as well as enhance your CS skills. Our previous edition hackCBS witnessed a grand footfall of over 100 teams, fighting it all out to their position at the top while generating over 15,000 lines of code in the process of 24 hours, requiring more than 3000 cups of coffee to fuel the developers’ brains (Coffee’s on the house). But this time it’s gonna be different, ‘coz this time it’s going to be even grander.
 
 
 
