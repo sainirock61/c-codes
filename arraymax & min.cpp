@@ -71,15 +71,6 @@ cout<<"\n\n";
          arr3[k]=arr2[j];
          j++;k++;
      }
-
- }
- while(i<n1)
- {
-     arr3[k++]=arr1[i++];
- }
- while(j<n2)
- {
-     arr3[k++]=arr2[j++];
  }
 
   for(k=0;k<(n1+n2);k++)
